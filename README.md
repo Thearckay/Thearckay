@@ -1,8 +1,12 @@
+<link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&color=6d02ab">
 <h1 style="font-size: 3em; display: flex; gap: .5em ;align-itens: center;">Kayck Arcanjo <img src="https://skillicons.dev/icons?i=java"/></h1>
-<p style="display:flex; position: relative; bottom: em ">Hi there, my name is Kayck Arcanjo. I'm 20 and study Java development</p>
 
 
+<div style="width: 100%; height: 10em; border: 1px solid #5a058bff; border-radius: 20px; box-shadow: inset 1px 1px 10px #510180ff; padding: 1em; font-family: poppins">
+    <p style="display:flex; position: relative; bottom: em ">Hi there, my name is Kayck Arcanjo. I'm 20 and study Java development</p>
+    <p>Lately I've been studying JPA, using hibernate/JDBC </p>
+</div>
 
 <!--
 **Thearckay/Thearckay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
