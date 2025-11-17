@@ -1,5 +1,8 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&color=6d02ab">
-## Hi there 👋
+<h1 style="font-size: 3em; display: flex; gap: .5em ;align-itens: center;">Kayck Arcanjo <img src="https://skillicons.dev/icons?i=java"/></h1>
+<p style="display:flex; position: relative; bottom: em ">Hi there, my name is Kayck Arcanjo. I'm 20 and study Java development</p>
+
+
 
 <!--
 **Thearckay/Thearckay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
