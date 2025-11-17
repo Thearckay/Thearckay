@@ -1,3 +1,4 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&color=6d02ab">
 ## Hi there 👋
 
 <!--
