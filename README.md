@@ -1,24 +1,49 @@
-<link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&color=6d02ab">
-<h1 style="font-size: 3em; display: flex; gap: .5em ;align-itens: center;">Kayck Arcanjo <img src="https://skillicons.dev/icons?i=java"/></h1>
-
-
-<div style="width: 100%; height: 10em; border: 1px solid #5a058bff; border-radius: 20px; box-shadow: inset 1px 1px 10px #510180ff; padding: 1em; font-family: poppins">
-    <p style="display:flex; position: relative; bottom: em ">Hi there, my name is Kayck Arcanjo. I'm 20 and study Java development</p>
-    <p>Lately I've been studying JPA, using hibernate/JDBC </p>
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=6d02ab&section=header&text=Kayck%20Arcanjo&fontSize=80&fontColor=ffffff&fontAlign=50&fontAlignY=40"/>
 </div>
 
-<!--
-**Thearckay/Thearckay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <h3> 👋 Olá! Eu sou o Kayck.</h3>
+  <p>Tenho 20 anos, sou brasileiro e apaixonado pelo ecossistema <b>Java</b>.</p>
+  
+  <br>
+  
+  <p align="center">
+    Atualmente estou focado em <b>Desenvolvimento Backend</b>, solidificando minha base em <br>
+    Java Core, JDBC e Arquitetura de Software (MVC/DAO) enquanto avanço para o <b>Spring Boot</b>.
+  </p>
+</div>
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <h3>🛠️ Tech Stack</h3>
+  <img src="https://skillicons.dev/icons?i=java,mysql,hibernate,git,github,linux,idea&theme=dark" />
+</div>
+
+<br>
+
+<div align="center">
+  <table style="border: none;">
+    <tr>
+      <td style="border: none;">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Thearckay&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+      </td>
+      <td style="border: none;">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thearckay&layout=compact&theme=tokyonight"/>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br>
+
+<div align="center">
+  <h3>📫 Onde me encontrar</h3>
+  <a href="https://www.linkedin.com/in/SEU-LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a> 
+  <a href="mailto:SEU-EMAIL@GMAIL.COM">
+    <img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
+</div>
