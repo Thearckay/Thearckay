@@ -4,7 +4,7 @@
 
 <div align="center">
   <h3> 👋 Olá! Eu sou o Kayck.</h3>
-  <p>Tenho 20 anos, sou brasileiro e apaixonado pelo ecossistema <b>Java</b>.</p>
+  <p>Tenho 20 anos, sou brasileiro, estudante de desenvolvimento de software; Focado no ecossistema <b>Java</b>.</p>
   
   <br>
   
