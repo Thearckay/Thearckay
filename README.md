@@ -24,16 +24,8 @@
 <br>
 
 <div align="center">
-  <table style="border: none;">
-    <tr>
-      <td style="border: none;">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Thearckay&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-      </td>
-      <td style="border: none;">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thearckay&layout=compact&theme=tokyonight"/>
-      </td>
-    </tr>
-  </table>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Thearckay&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thearckay&layout=compact&theme=tokyonight"/>
 </div>
 
 <br>
