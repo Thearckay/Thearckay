@@ -10,7 +10,7 @@
   
   <p align="center">
     Atualmente estou focado em <b>Desenvolvimento Backend</b>, solidificando minha base em <br>
-    Java Core, JDBC e Arquitetura de Software (MVC/DAO) enquanto avanço para o <b>Spring Boot</b>.
+    Java Core, JDBC e Arquitetura de Software (MVC/Layered Architecture/DAO) enquanto avanço para o <b>Spring Boot</b>.
   </p>
 </div>
 
